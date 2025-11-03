@@ -4,14 +4,7 @@ A Flutter-based photo gallery application that integrates native device features
 
 ## Demo
 
-A short demo video is available at `assets/demo.mp4`. To include and view it locally:
-
-You can embed the video directly in Markdown (many renderers support raw HTML):
-
-<video controls width="640">
-   <source src="assets/demo.mp4" type="video/mp4">
-   Your browser does not support the video tag. You can find the file at `assets/demo.mp4`.
-</video>
+https://github.com/user-attachments/assets/65cf039a-73bf-4686-8408-129e220c6738
 
 ## Features
 
